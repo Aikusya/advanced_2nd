@@ -15,7 +15,8 @@ Team Awesome Blog is a collaborative blogging platform where users can create, e
 ## Screenshots
 
 ### Homepage
-![Homepage](./screenshots/homepage.png)
+![Alt Text](./images/main.png)
+
 
 ## Launching the Application
 
