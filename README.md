@@ -1,22 +1,19 @@
-# Project Theme: Team Awesome Blog
+![image](https://github.com/Aikusya/advanced_2nd/assets/129418969/4b483d21-0667-49ca-9e3e-37f6cce3b600)# Project Theme: Animation Studio
 
-![Team Awesome Blog](./screenshots/homepage.png)
 
 ## Brief Project Description
 
-Team Awesome Blog is a collaborative blogging platform where users can create, edit, and publish blog posts. The project aims to provide an intuitive and enjoyable writing experience for bloggers and readers. The target users include content creators, bloggers, and individuals interested in sharing their thoughts and stories.
+Animation Studio started their reqruitment for the talented animatiors and designers. The company provides an opportunity for the people to start their projects with their new forming teams. 
 
 ## Participants
 
-- John Doe
-- Jane Smith
-- Alex Johnson
-
-## Screenshots
+- Aralbayev Rasul
 
 ### Homepage
 ![Alt Text](./main.png)
 
+## Screenshots
+![Alt Text](./form.png)
 
 ## Launching the Application
 
